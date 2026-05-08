@@ -1,5 +1,4 @@
 
-markdown
 # ⚡ K‑Flow Card for Home Assistant
 
 Animated energy flow dashboard card – solar, battery, grid, home – real‑time, no token needed.
