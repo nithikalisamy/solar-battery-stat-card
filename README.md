@@ -7,6 +7,8 @@ Animated energy flow dashboard card – solar, battery, grid, home – real‑ti
 Standard .<img width="1132" height="1603" alt="standard png" src="https://github.com/user-attachments/assets/ed8d07d1-044f-455d-abec-8995f4764342" />
 
 Multi Pv(4pv and arc flow updated, dowload "k-flow-pv4.js" if solar arc and value flow not showing).<img width="1110" height="1624" alt="multi-pv png" src="https://github.com/user-attachments/assets/3ba1e191-add4-47d3-9b0f-0a52902651cb" />
+Dual Battery <img width="1102" height="1620" alt="kflowdual" src="https://github.com/user-attachments/assets/40f80d43-7fd7-447c-842a-58f16d03a37b" />
+
 
 
 
