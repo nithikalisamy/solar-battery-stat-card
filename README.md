@@ -6,6 +6,9 @@ Animated energy flow dashboard card – solar, battery, grid, home – real‑ti
 
 Standard .<img width="1132" height="1603" alt="standard png" src="https://github.com/user-attachments/assets/ed8d07d1-044f-455d-abec-8995f4764342" />
 
+Multi Pv(4pv and arc flow updated).<img width="1110" height="1624" alt="multi-pv png" src="https://github.com/user-attachments/assets/3ba1e191-add4-47d3-9b0f-0a52902651cb" />
+
+
 
 ---
 
