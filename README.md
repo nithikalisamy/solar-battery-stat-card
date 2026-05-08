@@ -4,18 +4,8 @@ markdown
 
 Animated energy flow dashboard card – solar, battery, grid, home – real‑time, no token needed.
 
-## 📸 Gallery
+Standard .<img width="1132" height="1603" alt="standard png" src="https://github.com/user-attachments/assets/ed8d07d1-044f-455d-abec-8995f4764342" />
 
-| Standard | Dual Battery |
-|----------|--------------|
-| ![Standard]![Uploading standard.png.jpg…]()
-<img width="1110" height="1624" alt="multi-pv png" src="https://github.com/user-attachments/assets/9d0995db-7b87-401a-b200-01d38706003e" />
- | ![Dual Battery](dual-battery.png) |
-
-| Multi PV (4 strings) | Mobile view |
-|----------------------|-------------|
-| ![Multi PV]<img width="1110" height="1624" alt="multi-pv png" src="https://github.com/user-attachments/assets/d1382644-1ad1-4e87-b4b1-fe3d21846501" />
- | ![Mobile](mobile.png) |
 
 ---
 
