@@ -64,14 +64,12 @@ The repository contains three versions. Choose the one that fits your setup, ren
 Variant	File	Description
 
 Standard	k-flow-card.js
-
 Single battery, PV1/PV2. Uses pv_total_power or sums PV1+PV2 if missing.
 
 Dual Battery	k-flow-card-dual.js	
-
 Same as standard, but with two battery compartments in one shell. Second battery is optional – no entities = hides.
-Multi PV (4 strings)	k-flow-card-pv4.js	
 
+Multi PV (4 strings)	k-flow-card-pv4.js	
 Single battery, supports PV1–PV4. Auto‑calculates total PV when pv_total_power is missing/zero.
 
 All variants use the same card type custom:k-flow-card – no YAML changes needed when switching files.
