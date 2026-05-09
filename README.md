@@ -1,3 +1,4 @@
+(v.4.0.1 updated. resolved icon display issue.)
 
 # ⚡ K‑Flow Card for Home Assistant
 
